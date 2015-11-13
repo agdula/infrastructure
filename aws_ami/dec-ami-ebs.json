@@ -8,10 +8,10 @@
       "access_key": "",
       "secret_key": "",
       "region": "us-east-1",
-      "source_ami": "ami-d71066b2",
+      "source_ami": "ami-b66ed3de",
       "instance_type": "t2.micro",
       "ssh_username": "ec2-user",
-      "ami_name": "dec_ami_docker",
+      "ami_name": "cloudyna_ami",
       "ssh_timeout": "5m",
       "subnet_id": "subnet-1b937530",
       "security_group_id": "sg-37c0f453"
